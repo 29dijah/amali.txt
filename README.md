@@ -1,0 +1,2 @@
+# amali.txt
+latihan amali
